@@ -2,7 +2,6 @@
 
 FlavourByte is a single-page application (SPA) frontend that provides a user-friendly and visually appealing interface for online food ordering. It leverages modern web development technologies to deliver a smooth and efficient user experience.
 
-[Demo Video](https://www.youtube.com/watch?v=XR5d_3MwkqI)
 
 ## Features
 
